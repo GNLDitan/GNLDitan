@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GNLDitan
 - 👀 I’m interested in creating web apps
 - 🌱 I’m currently learning python, mean stack and java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on different company with lot's of techincal tools
+- 📫 You can email
 
 <!---
 GNLDitan/GNLDitan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GNLDitan
-- 👀 I’m interested in creating web apps
+- 👀 I’m interested in creating web and mobile apps
 - 🌱 I’m currently learning python, mean stack and java
 - 💞️ I’m looking to collaborate on different company with lot's of techincal tools
 - 📫 You can email
